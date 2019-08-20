@@ -1,0 +1,3 @@
+﻿  TEST CODE.cpp
+d:\visual studio\проекты на c и c++\test code\test code\test code.cpp(13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  TEST CODE.vcxproj -> D:\Visual Studio\Проекты на C и C++\TEST CODE\Debug\TEST CODE.exe
