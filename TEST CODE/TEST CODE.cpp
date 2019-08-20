@@ -23,6 +23,11 @@ void main()
 	cout << quantity.capacity() << endl;
 	cout << "This is a TEST CODE!\n";
 
+	for (int i = 1; i <= 10; i++)
+	{
+		cout << i << endl;
+	}
+
 
 }
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
